@@ -1,0 +1,5 @@
+Benchmark execution - 30 July 2026
+Requests: 250
+Average latency: 37.016 ms
+P95 latency: 35.141 ms
+Throughput: 27.02 requests/second

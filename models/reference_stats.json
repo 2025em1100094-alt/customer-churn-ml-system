@@ -1,0 +1,70 @@
+{
+  "row_count": 7043,
+  "numeric": {
+    "SeniorCitizen": {
+      "mean": 0.1621468124378816,
+      "std": 0.36858543603093713,
+      "missing_rate": 0.0
+    },
+    "tenure": {
+      "mean": 32.37114865824223,
+      "std": 24.55773742286344,
+      "missing_rate": 0.0
+    },
+    "MonthlyCharges": {
+      "mean": 64.76169246059918,
+      "std": 30.087910854936975,
+      "missing_rate": 0.0
+    },
+    "TotalCharges": {
+      "mean": 2279.7343035638223,
+      "std": 2266.6335386271107,
+      "missing_rate": 0.0
+    },
+    "avg_charge_per_month": {
+      "mean": 64.69821757364208,
+      "std": 30.26852047607629,
+      "missing_rate": 0.0
+    },
+    "charge_gap": {
+      "mean": 0.06347488695709141,
+      "std": 3.211586996238836,
+      "missing_rate": 0.0
+    },
+    "tenure_years": {
+      "mean": 2.6975957215201856,
+      "std": 2.046478118571953,
+      "missing_rate": 0.0
+    },
+    "is_new_customer": {
+      "mean": 0.21027971035070284,
+      "std": 0.40750724381969866,
+      "missing_rate": 0.0
+    },
+    "is_month_to_month": {
+      "mean": 0.5501916796819537,
+      "std": 0.49747441671979886,
+      "missing_rate": 0.0
+    },
+    "has_auto_payment": {
+      "mean": 0.4353258554593213,
+      "std": 0.4957996117666203,
+      "missing_rate": 0.0
+    },
+    "support_services_count": {
+      "mean": 1.2656538406928866,
+      "std": 1.2867878764796057,
+      "missing_rate": 0.0
+    },
+    "streaming_services_count": {
+      "mean": 0.77225614084907,
+      "std": 0.8525128727473279,
+      "missing_rate": 0.0
+    },
+    "estimated_ltv": {
+      "mean": 2344.34304273747,
+      "std": 2284.2869657402166,
+      "missing_rate": 0.0
+    }
+  }
+}

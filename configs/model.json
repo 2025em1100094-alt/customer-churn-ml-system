@@ -1,0 +1,12 @@
+{
+  "random_state": 42,
+  "test_size": 0.20,
+  "validation_size": 0.20,
+  "candidate_n_estimators": 300,
+  "candidate_max_depth": 8,
+  "candidate_min_samples_leaf": 6,
+  "promotion_min_auc": 0.80,
+  "promotion_max_auc_drop": 0.01,
+  "decision_threshold": 0.50,
+  "model_version": "churn-rf-1.0.0"
+}
